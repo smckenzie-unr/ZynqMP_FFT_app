@@ -1,0 +1,12 @@
+/Debug/
+/Release/
+
+_ide/bitstream/zynqmp_system_wrapper.bit
+
+_ide/hwspec.checksum
+
+_ide/launch/Debugger_fft_dma_accelerator-Default.launch
+
+_ide/psinit/psu_init.tcl
+
+fft_dma_accelerator.prj
